@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605614087901",
+    "project_id": "majormuseobharat",
+    "storage_bucket": "majormuseobharat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605614087901:android:0810b82394d6e1c2d54534",
+        "android_client_info": {
+          "package_name": "com.example.museo_bharat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUFy-AfpCaaE03g5AHfCu1x0xKpD6Q3u4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
